@@ -1,0 +1,389 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.12f1 (afcadd793de6) revision 11520733'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2021.1.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Toby/Documents/University/Level 6/Indie/DungeonCleanup
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65510
+Successfully changed project path to: C:/Users/Toby/Documents/University/Level 6/Indie/DungeonCleanup
+C:/Users/Toby/Documents/University/Level 6/Indie/DungeonCleanup
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.12f1 (afcadd793de6)
+[Subsystems] Discovering subsystems at path D:/Unity/2021.1.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Toby/Documents/University/Level 6/Indie/DungeonCleanup/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8011 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'D:/Unity/2021.1.12f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2021.1.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2021.1.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2021.1.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001060 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 104.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.721 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1721ms)
+		BeginReloadAssembly (54ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (439ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (145ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (221ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (105ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (83ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006839 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Toby\Documents\University\Level 6\Indie\DungeonCleanup\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Toby\Documents\University\Level 6\Indie\DungeonCleanup\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 98.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1093ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (907ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (314ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (383ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (98ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (196ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.8 MB.
+System memory in use after: 174.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4742.
+Total: 3.011400 ms (FindLiveObjects: 0.457400 ms CreateObjectMapping: 0.312800 ms MarkObjects: 2.151400 ms  DeleteObjects: 0.088800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sounds/zapsplat_foley_rock_stone_tomb_close_thud_18340.mp3
+  artifactKey: Guid(8d1862d1cd34b85458b8e13e71293463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_foley_rock_stone_tomb_close_thud_18340.mp3 using Guid(8d1862d1cd34b85458b8e13e71293463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3b280630b33b020df06a3ef8edd958') in 0.088044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sounds/zapsplat_foley_stone_large_set_down_thud_001_48365.mp3
+  artifactKey: Guid(fb3cc89cbbf4f9a4c971c176430f080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_foley_stone_large_set_down_thud_001_48365.mp3 using Guid(fb3cc89cbbf4f9a4c971c176430f080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcf6f49789324b64cdf15beab77d84b') in 0.016122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sounds/lava_bubbles.mp3
+  artifactKey: Guid(88c8a4f7f33edf1458896d9ab40e6e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/lava_bubbles.mp3 using Guid(88c8a4f7f33edf1458896d9ab40e6e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916437ea8c7e318b919db15cbabe07b1') in 0.010256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sounds/zapsplat_animal_rodent_squeak_single_001.mp3
+  artifactKey: Guid(d6556c8e28faf804e960abe153960cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_animal_rodent_squeak_single_001.mp3 using Guid(d6556c8e28faf804e960abe153960cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77a062957063d8826533f23ca441afe') in 0.009865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sounds/door_open.mp3
+  artifactKey: Guid(c63421517caaf7c4da1412c9ef9f79db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/door_open.mp3 using Guid(c63421517caaf7c4da1412c9ef9f79db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d8447f9cdf41164677095f6c06ed6b') in 0.011049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sounds/zapsplat_animals_rat_death_screech_001_72268.mp3
+  artifactKey: Guid(f57d40272ad076c49a49fb680ff2b192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_animals_rat_death_screech_001_72268.mp3 using Guid(f57d40272ad076c49a49fb680ff2b192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d1ca0d414d4d0e0af412afe754016c') in 0.010528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Sounds/zapsplat_foley_stone_door_tomb_drag_slide_dust_debris_fall_002_48364.mp3
+  artifactKey: Guid(45676564191b3344183bf4d7c2a0d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_foley_stone_door_tomb_drag_slide_dust_debris_fall_002_48364.mp3 using Guid(45676564191b3344183bf4d7c2a0d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65b84ad4bd99c7042494dae9c0808e1') in 0.011102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Sounds/46273__phreaksaccount__fire-small-loop.wav
+  artifactKey: Guid(32edfe98be6b91f48818d5485dd9e8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/46273__phreaksaccount__fire-small-loop.wav using Guid(32edfe98be6b91f48818d5485dd9e8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c17007a0b3a0f3728083582fc71d5cf') in 0.010483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Sounds/zapsplat_cartoon_slime_mud_wet_bubbles_swamp_002_51672.mp3
+  artifactKey: Guid(62a05781eb30e9d43942706d140899da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_cartoon_slime_mud_wet_bubbles_swamp_002_51672.mp3 using Guid(62a05781eb30e9d43942706d140899da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2045ad9838ffb74804048d1d35aee398') in 0.010952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Sounds/door_open_short.mp3
+  artifactKey: Guid(9c5976b33d2f13b44bed48cd9765cb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/door_open_short.mp3 using Guid(9c5976b33d2f13b44bed48cd9765cb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f59488fd57475dbd27732ebb4b2126') in 0.010769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Sounds/Blastwave_FX_RatSqueak_SFXB.306.mp3
+  artifactKey: Guid(7d57dd557e74a6d418f8fda9e18ae5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Blastwave_FX_RatSqueak_SFXB.306.mp3 using Guid(7d57dd557e74a6d418f8fda9e18ae5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a529e98e64a9683e42109f6af395d058') in 0.019220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.108840 seconds.
+  path: Assets/Sounds/zapsplat_household_door_gate_heavy_wood_loud_creak_open_or_close_006_25349.mp3
+  artifactKey: Guid(c8977cfe2958d314ba56c88def2a7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/zapsplat_household_door_gate_heavy_wood_loud_creak_open_or_close_006_25349.mp3 using Guid(c8977cfe2958d314ba56c88def2a7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e73d1c2af70747c1d71f0c25373cc70') in 0.010358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.292234 seconds.
+  path: Assets/Sounds
+  artifactKey: Guid(4126c2a849571f64c83a8107a58300ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds using Guid(4126c2a849571f64c83a8107a58300ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d23e83070496ad9330ba5c4a5741f6a') in 0.005138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 274.492066 seconds.
+  path: Assets/Sounds/fire-small-loop.wav
+  artifactKey: Guid(32edfe98be6b91f48818d5485dd9e8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/fire-small-loop.wav using Guid(32edfe98be6b91f48818d5485dd9e8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f33e448e417887bbca58e7d1588178') in 0.010288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 301.413022 seconds.
+  path: Assets/Sounds/RatSqueak_SFXB.306.mp3
+  artifactKey: Guid(7d57dd557e74a6d418f8fda9e18ae5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/RatSqueak_SFXB.306.mp3 using Guid(7d57dd557e74a6d418f8fda9e18ae5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6e653b8fc4811756c61931f41d226a') in 0.010253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.740304 seconds.
+  path: Assets/Sounds/Sound FX References.docx
+  artifactKey: Guid(b44fc64b5170d7a43b711242680ab9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Sound FX References.docx using Guid(b44fc64b5170d7a43b711242680ab9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f523a20b22042282b21b9fb6ea2258d') in 0.007406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 135.625112 seconds.
+  path: Assets/Sounds/animal_rodent_squeak_single_001.mp3
+  artifactKey: Guid(d6556c8e28faf804e960abe153960cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/animal_rodent_squeak_single_001.mp3 using Guid(d6556c8e28faf804e960abe153960cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4dd7c0198641a9f5302ae5a04c20e1') in 0.010123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.887118 seconds.
+  path: Assets/Sounds/animals_rat_death_screech_001_72268.mp3
+  artifactKey: Guid(f57d40272ad076c49a49fb680ff2b192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/animals_rat_death_screech_001_72268.mp3 using Guid(f57d40272ad076c49a49fb680ff2b192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b089c39ec711e0a4ca32940b8f71b05') in 0.008979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.813138 seconds.
+  path: Assets/Sounds/cartoon_slime_mud_wet_bubbles_swamp_002_51672.mp3
+  artifactKey: Guid(62a05781eb30e9d43942706d140899da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/cartoon_slime_mud_wet_bubbles_swamp_002_51672.mp3 using Guid(62a05781eb30e9d43942706d140899da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729d257957a642f1ddadd25525849b0c') in 0.010183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.222100 seconds.
+  path: Assets/Sounds/foley_rock_stone_tomb_close_thud_18340.mp3
+  artifactKey: Guid(8d1862d1cd34b85458b8e13e71293463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/foley_rock_stone_tomb_close_thud_18340.mp3 using Guid(8d1862d1cd34b85458b8e13e71293463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fb4ea136e7892fc544975cef725922') in 0.009854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.699540 seconds.
+  path: Assets/Sounds/foley_stone_door_tomb_drag_slide_dust_debris_fall_002_48364.mp3
+  artifactKey: Guid(45676564191b3344183bf4d7c2a0d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/foley_stone_door_tomb_drag_slide_dust_debris_fall_002_48364.mp3 using Guid(45676564191b3344183bf4d7c2a0d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999eb053a7d08e357d8bc3dacc3954e5') in 0.010436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.044206 seconds.
+  path: Assets/Sounds/foley_stone_large_set_down_thud_001_48365.mp3
+  artifactKey: Guid(fb3cc89cbbf4f9a4c971c176430f080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/foley_stone_large_set_down_thud_001_48365.mp3 using Guid(fb3cc89cbbf4f9a4c971c176430f080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8053d8df09ef9ed4f27ba47c9db1af9') in 0.009346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.100864 seconds.
+  path: Assets/Sounds/household_door_gate_heavy_wood_loud_creak_open_or_close_006_25349.mp3
+  artifactKey: Guid(c8977cfe2958d314ba56c88def2a7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/household_door_gate_heavy_wood_loud_creak_open_or_close_006_25349.mp3 using Guid(c8977cfe2958d314ba56c88def2a7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4f0d71ca8aeff29daa1d67554287e8') in 0.012823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.058105 seconds.
+  path: Assets/Sounds/Slime
+  artifactKey: Guid(48f315e72484f0f41b889a2a45b456b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime using Guid(48f315e72484f0f41b889a2a45b456b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a81592baefb7054da1d1e5bb3d5129') in 0.005415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.122157 seconds.
+  path: Assets/Sounds/Slime/slime_drop.wav
+  artifactKey: Guid(f7534c22e0399764b8e9fadf88fdbff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/slime_drop.wav using Guid(f7534c22e0399764b8e9fadf88fdbff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76aeb138e7dbc7953c0d7178b8e5e073') in 0.010100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Sounds/Slime/slime_move2.wav
+  artifactKey: Guid(184c0f208cd8d5f4794fd6cd1b9f7ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/slime_move2.wav using Guid(184c0f208cd8d5f4794fd6cd1b9f7ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fed3e3efc4f995a5c633d2cd6063bf') in 0.011609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Sounds/Slime/slime_pickup.wav
+  artifactKey: Guid(57cd9a77f7fd4f747974e1d3269bb185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/slime_pickup.wav using Guid(57cd9a77f7fd4f747974e1d3269bb185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f6efe951fd35899716ca02f4f470a7') in 0.011056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Sounds/Slime/zapsplat_cartoon_slime_bubble_004_48932.mp3
+  artifactKey: Guid(58639fc9cb273d942ab7f384087007b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/zapsplat_cartoon_slime_bubble_004_48932.mp3 using Guid(58639fc9cb273d942ab7f384087007b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2920b84f9c352ca1e7690c021c5f16c7') in 0.009958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sounds/Slime/slime_move.wav
+  artifactKey: Guid(99602efe8c70e144fa974eb0277c3cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/slime_move.wav using Guid(99602efe8c70e144fa974eb0277c3cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce108cefe93c221321eb1ce7e011dc9') in 0.010325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sounds/Slime/zapsplat_cartoon_slime_bubble_002_48930.mp3
+  artifactKey: Guid(d211c4df4f2b9c44b90507b797e05dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Slime/zapsplat_cartoon_slime_bubble_002_48930.mp3 using Guid(d211c4df4f2b9c44b90507b797e05dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3570ff601af389500bcb284a9de7d187') in 0.009457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.719212 seconds.
+  path: Assets/Sounds/cartoon_slime_bubble_002_48930.mp3
+  artifactKey: Guid(d211c4df4f2b9c44b90507b797e05dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/cartoon_slime_bubble_002_48930.mp3 using Guid(d211c4df4f2b9c44b90507b797e05dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07553a1a063b485c188b412272b6fb20') in 0.009985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.781872 seconds.
+  path: Assets/Sounds/cartoon_slime_bubble_004_48932.mp3
+  artifactKey: Guid(58639fc9cb273d942ab7f384087007b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/cartoon_slime_bubble_004_48932.mp3 using Guid(58639fc9cb273d942ab7f384087007b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a885b31445d6400d1ec2a272772316c') in 0.010030 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005446 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Toby\Documents\University\Level 6\Indie\DungeonCleanup\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Toby\Documents\University\Level 6\Indie\DungeonCleanup\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Domain Reload Profiling:
+	ReloadAssembly (923ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (308ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (244ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.8 MB.
+System memory in use after: 171.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4753.
+Total: 2.563100 ms (FindLiveObjects: 0.398500 ms CreateObjectMapping: 0.107100 ms MarkObjects: 2.000400 ms  DeleteObjects: 0.056100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 99.910550 seconds.
+  path: Assets/Sounds/Sound FX References.docx
+  artifactKey: Guid(b44fc64b5170d7a43b711242680ab9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Sound FX References.docx using Guid(b44fc64b5170d7a43b711242680ab9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96faa4f372f1da9fade64a40d035439') in 0.022524 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
